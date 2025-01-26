@@ -15,4 +15,4 @@ COPY requirements.txt /requirements.txt
 RUN pip3 install -U -r requirements.txt
 
 # Running MessageSearchBot
-CMD ["python", "bot.py"]
+CMD ["python3", "config.py"]
