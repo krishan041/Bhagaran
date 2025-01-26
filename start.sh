@@ -1,5 +1,5 @@
 echo "Cloning Repo...."
-git clone https://github.com/LazyDeveloperr/MissPerfect-URL-BOT /MissPerfectURLBOT
+git clone https://github.com/krishan041/Bhagaran
 cd /MissPerfectURLBOT
 pip3 install -r requirements.txt
 echo "Starting Bot...."
