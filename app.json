@@ -5,8 +5,8 @@
       "Url-Downloader"
    ],
    "success_url": "https://t.me/WebXBots",
-   "website": "https://github.com/WebX-Divin",
-   "repository": "https://github.com/WebX-Divin/Url-Downloader",
+   "website": "https://github.com/krishan041",
+   "repository": "https://github.com/krishan041/Bhagaran",
    "env": {
       "WEBHOOK": {
          "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -18,23 +18,23 @@
       },
       "API_ID": {
          "description": "Get this value from https://my.telegram.org",
-         "value": ""
+         "value": "27536109"
       },
       "API_HASH": {
          "description": "Get this value from https://my.telegram.org",
-         "value": ""
+         "value": "b84d7d4dfa33904d36b85e1ead16bd63"
       },
       "OWNER_ID": {
          "description": "Your Telegram ID",
-         "value": ""
+         "value": "6428531614"
       },
       "PREMIUM_USER": {
          "description": "If you are a telegram premium user then set this True",
-         "value": "False"
+         "value": "True"
       },
       "DATABASE_URL": {
          "description": "Your MongoDB URI",
-         "value": ""
+         "value": "mongodb+srv://krishandara04:iLfRpsD0SbLVOBpP@cluster0.t88ua.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
       }
    },
    "addons": [],
