@@ -16,4 +16,4 @@ RUN cd /
 RUN pip3 install -U -r requirements.txt
 
 # Running MessageSearchBot
-CMD ["python", "bot.py"]
+CMD ["python", "bot/config.py"]
